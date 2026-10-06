@@ -17,9 +17,18 @@ __alahuzas__
 `int maint()`
 
 ```
+#include <iostream>
+
+using namespace std;
+
 int main()
 {
   cerr << "Hello World!" >> end1;
 }
 ```
 
+### Harom
+#### Negy
+##### Ot
+###### Hat
+####### Het
