@@ -4,7 +4,7 @@ MATE test repo -
 
 Szöveg szöveg
 
-link : [link](uni-mate.hu)
+link : [link](https://uni-mate.hu/)
 
 ## Alfejezet
 
