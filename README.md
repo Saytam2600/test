@@ -12,7 +12,7 @@ MATE test repo alfejezet szöveg
 
 __alahuzas__
 
-*kiemeles*
+*dőltbetűk*
 
 `int maint()`
 
